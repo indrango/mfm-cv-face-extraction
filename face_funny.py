@@ -56,7 +56,7 @@ def main():
         ("jaw", (0, 17))
     ])
 
-    p = 'predictor/shape_predictor_68_face_landmarks.dat'
+    p = 'shape_predictor_68_face_landmarks.dat'
     detector = dlib.get_frontal_face_detector()
     predictor = dlib.shape_predictor(p)
 
