@@ -13,8 +13,6 @@ In this repository contain several source code about MFM meetup.
    - Imutils
 3. Download DLIB predictor in [link here](https://drive.google.com/open?id=1G3GGJXrP6cqz-ko2Ge2EWKeMYoRS7GC2)
 
-
-
 #### For Linux :
 
 1. Check your local computer have installed python2 or python3
@@ -24,22 +22,14 @@ In this repository contain several source code about MFM meetup.
    * Imutils
 3. Download DLIB predictor in [link here](https://drive.google.com/open?id=1G3GGJXrP6cqz-ko2Ge2EWKeMYoRS7GC2)
 
-
-
 ## Basic Computer Vision with Python
 
 - Read image
-
 - Image shape
-
 - Resize image
-
 - Display image
-
 - Display bounding box
-
 - Display text
-
 
 ## Face Extraction
 
@@ -47,8 +37,6 @@ In this repository contain several source code about MFM meetup.
 - Display face key point from selected image
 - Create bounding box for every detected image/ face detection
 - Create face funny feature extraction
-
-
 
 ## Reference
 
